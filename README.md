@@ -1,2 +1,2 @@
 # kodluyoruzilkrepo
-kodluyoruzilkrepo
+kodluyoruzilkrepo.
